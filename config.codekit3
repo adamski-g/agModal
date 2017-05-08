@@ -15,6 +15,12 @@
 		"oAP": "\/.bowerrc",
 		"oF": 0
 		},
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -77,6 +83,24 @@
 		"oA": 1,
 		"oAP": "\/partials\/pages\/modalSection.html",
 		"oF": 1
+		},
+	"\/readme.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/readme.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/scss\/app.scss": {
 		"aP": 0,
