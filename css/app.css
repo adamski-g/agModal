@@ -86,9 +86,6 @@
     text-decoration: none;
     margin-bottom: 1em;
     color: white; }
-    @media only screen and (min-width: 640px) and (max-width: 1024px) {
-      .modalContent h3 {
-        font-size: 40px !important; } }
   .modalContent p {
     font-size: 18px;
     color: white;
